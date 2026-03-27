@@ -14,3 +14,7 @@
 - MCP convert Document(docx, pdf, audio, zip, images, link,...) to .md
 - Using CLI or API in Python
 - Support large type document files
+
+## Mobile MCP
+- MCP can control mobile device end-to-end
+- No need to write automation script 
