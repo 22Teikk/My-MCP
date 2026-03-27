@@ -18,3 +18,8 @@
 ## Mobile MCP
 - MCP can control mobile device end-to-end
 - No need to write automation script 
+
+## Context7
+- Ensures up-to-date APIs
+- Faster SDK integration
+- Fewer bugs from wrong docs
