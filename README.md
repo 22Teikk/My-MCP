@@ -23,3 +23,10 @@
 - Ensures up-to-date APIs
 - Faster SDK integration
 - Fewer bugs from wrong docs
+
+## GitNexus
+- Makes AI codebase-aware
+- Structural intelligence for AI agents
+- Safer refactors across large repos
+- Better architectural reasoning
+- Dependency-aware context retrieval
